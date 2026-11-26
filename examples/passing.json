@@ -1,0 +1,10 @@
+{
+  "metrics": {
+    "reprojection_rmse_px": 0.32,
+    "epipolar_mean_px": 0.40
+  },
+  "limits": {
+    "reprojection_rmse_px": 0.50,
+    "epipolar_mean_px": 0.40
+  }
+}
